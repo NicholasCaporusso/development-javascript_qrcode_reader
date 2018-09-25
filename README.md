@@ -2,4 +2,4 @@
 
 QR code reader using HTML + javascript
 
-Available at: 
+Available at: https://nicholascaporusso.github.io/javascript_QRcode_reader/
